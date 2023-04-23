@@ -5,17 +5,8 @@
 ## 💻 Croisé sur ma route 
 <div align="center">
 
-![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png)
-![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
-![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
- 
-![SQL Logo](https://img.icons8.com/color/48/000000/sql.png)
-![Laravel Logo](https://img.icons8.com/fluency/48/000000/laravel.png)
-![Node.js Logo Alternative](https://img.icons8.com/color/48/ffffff/nodejs.png)
-
-![GitHub Logo](https://img.icons8.com/ios/50/ffffff/github.png)
-
-...
+<img src="https://skillicons.dev/icons?i=flutter,js,cs" alt="Logos Flutter, C#, JavaScript,html,css,bootstrap" height="48">
+<img src="https://skillicons.dev/icons?i=mysql,laravel,nodejs,github,firebase,ai,pr,ps" alt="C# Logo" height="48">
 
 </div>
 
