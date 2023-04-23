@@ -28,7 +28,7 @@ Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://joha
 
 <div align="center">
 
- [![Logo LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/johan-anquetil-b3038027/)
+[![Logo LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/johan-anquetil-b3038027/)
 [![Logo Email](https://img.icons8.com/color/48/000000/email.png)](mailto:anquetil.johan@laposte.net)
 
 </div>
@@ -41,6 +41,9 @@ Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://joha
 </div>
 
 
-#### En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets 🔍
+## 🔍 En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets 
 Rythme : 4 jours en entreprise - 1 jour à l'école
-Dates : de juillet ou septembre 2023 à juillet 2024
+
+Durée : 12 mois
+
+Démarrage : A votre convenance, entre juillet et novembre 2023
