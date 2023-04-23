@@ -4,11 +4,11 @@
 
 
 ## 💻 Compétences techniques
-![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png) Flutter
-![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) SQL
-
+![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png)
+![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
+![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![SQL Logo](https://img.icons8.com/color/48/000000/sql.png)
+...
 
 ## 🚀 Portfolio
 🌱 J'ai récemment réalisé un portfolio en collaboration avec [@Nastiakor](https://github.com/Nastiakor/), en utilisant Flutter. Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://johananquetil.fr/portfolio)
