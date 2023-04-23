@@ -23,6 +23,13 @@ Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://joha
   
 </div>
 
+## 🔍 En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets 
+Rythme : 4 jours en entreprise - 1 jour à l'école
+
+Durée : 12 mois
+
+Démarrage : A votre convenance, entre juillet et novembre 2023
+
 ## 🤝 Me contacter
 💬 N'hésitez pas à me contacter pour discuter de projets ou d'opportunités. 
 
@@ -40,10 +47,3 @@ Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://joha
  
 </div>
 
-
-## 🔍 En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets 
-Rythme : 4 jours en entreprise - 1 jour à l'école
-
-Durée : 12 mois
-
-Démarrage : A votre convenance, entre juillet et novembre 2023
