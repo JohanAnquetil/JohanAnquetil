@@ -5,7 +5,7 @@
 ## 💻 Croisé sur ma route 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,js,cs" alt="Logos Flutter, C#, JavaScript,html,css,bootstrap" height="48">
+<img src="https://skillicons.dev/icons?i=flutter,js,cs,lua" alt="Logos Flutter, C#, JavaScript,html,css,bootstrap" height="48">
 <img src="https://skillicons.dev/icons?i=mysql,laravel,nodejs,github,firebase,ai,pr,ps" alt="C# Logo" height="48">
 
 </div>
