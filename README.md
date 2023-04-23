@@ -40,4 +40,7 @@ Vous pouvez le consulter ici : [https://johananquetil.fr/portfolio](https://joha
  
 </div>
 
-## 🔍 En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets
+
+#### En recherche d'une passionnante alternance dans le cadre de la seconde année de formation, je suis disponible pour dynamiser vos projets 🔍
+Rythme : 4 jours en entreprise - 1 jour à l'école
+Dates : de juillet ou septembre 2023 à juillet 2024
