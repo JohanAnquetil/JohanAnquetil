@@ -2,13 +2,19 @@
 
 🔭 Actuellement en reconversion professionnelle dans le domaine du développement à [Ada Tech School](https://adatechschool.fr/), je navigue à travers la vaste galaxie du développement, cherchant ma voie. Ma quête me pousse à explorer les étoiles du code, à traverser les trous noirs de défis complexes et à naviguer sur les ondes gravitationnelles de nouvelles technologies, dans l'espoir de trouver la planète idéale où je pourrais m'épanouir et contribuer à l'évolution de l'informatique universelle.
 
-## 💻 Compétences techniques
+## 💻 Croisé sur ma route 
 <div align="center">
 
 ![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png)
 ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 ![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+ 
 ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png)
+![Laravel Logo](https://img.icons8.com/fluency/48/000000/laravel.png)
+![Node.js Logo Alternative](https://img.icons8.com/color/48/ffffff/nodejs.png)
+
+![GitHub Logo](https://img.icons8.com/ios/50/ffffff/github.png)
+
 ...
 
 </div>
