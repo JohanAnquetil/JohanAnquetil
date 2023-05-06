@@ -44,7 +44,7 @@ Démarrage : A votre convenance, entre juillet et novembre 2023
  
  <p></p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanAnquetil&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanAnquetil&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
