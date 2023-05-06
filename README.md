@@ -1,6 +1,9 @@
-# Bonjour ! 👋
+# Welcome ! 👋
 
-🔭 Actuellement en reconversion professionnelle dans le domaine du développement à [Ada Tech School](https://adatechschool.fr/), je navigue à travers la vaste galaxie du développement. Ma quête me pousse à explorer les étoiles du code, à traverser les trous noirs de défis complexes et à naviguer sur les ondes gravitationnelles de nouvelles technologies. 
+🔭 Actuellement en reconversion professionnelle dans le domaine du développement à [Ada Tech School](https://adatechschool.fr/) après avoir oeuvré 10 ans au sein d'une association de défense des droits des personnes en situation de handicap (gestion de projet, mobilisation citoyenne, accompagnement du développement du pouvoir d'agir).
+🧐 Curieux
+📱 Passionné par le mobile
+
 
 ## 💻 Croisé sur ma route 
 <div align="center">
