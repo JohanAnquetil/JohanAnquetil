@@ -42,5 +42,9 @@ Démarrage : A votre convenance, entre juillet et novembre 2023
   
 [![Statistiques GitHub de Johan](https://github-readme-stats.vercel.app/api?username=JohanAnquetil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
+ <p></p>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanAnquetil&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
