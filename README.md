@@ -3,7 +3,7 @@
 🔭 Actuellement en reconversion professionnelle dans le domaine du développement à [Ada Tech School](https://adatechschool.fr/) après avoir oeuvré 10 ans au sein d'une association de défense des droits des personnes en situation de handicap (gestion de projet, mobilisation citoyenne, accompagnement du développement du pouvoir d'agir).
 <p></p>
 <p>🧐 Curieux</p>
-<br>📱 Passionné par le mobile
+<p>📱 Passionné par le mobile
 <p></p>
 
 ## 💻 Croisé sur ma route 
