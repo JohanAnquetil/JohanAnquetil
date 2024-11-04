@@ -1,7 +1,8 @@
 # Welcome ! 👋
 
-🔭 Actuellement en reconversion professionnelle dans le domaine du développement à [Ada Tech School](https://adatechschool.fr/) après avoir oeuvré 10 ans au sein d'une association de défense des droits des personnes en situation de handicap (gestion de projet, mobilisation citoyenne, accompagnement du développement du pouvoir d'agir).
-<p>📱 Passionné par le mobile
+📱 Développeur Flutter avec un an d'expérience chez Razorfish
+📕 Reconversion dans la tech chez [Ada Tech School] (https://adatechschool.fr/) en deux ans 
+🔬 10 ans d'expérience au sein d'une association de défense des droits des personnes en situation de handicap (gestion de projet, mobilisation citoyenne, accompagnement du développement du pouvoir d'agir).
 
 ## 💻 Croisé sur ma route 
 <div align="center">
