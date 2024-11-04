@@ -1,9 +1,9 @@
 # Welcome ! 👋
 
-📱 Développeur Flutter avec un an d'expérience chez Razorfish
-📕 Reconversion dans la tech chez [Ada Tech School] (https://adatechschool.fr/) en deux ans 
+<p>📱 Développeur Flutter avec un an d'expérience chez Razorfish</p>
+<p>📕 Reconversion dans la tech chez Ada Tech School en deux ans </p>
 🔬 10 ans d'expérience au sein d'une association de défense des droits des personnes en situation de handicap (gestion de projet, mobilisation citoyenne, accompagnement du développement du pouvoir d'agir).
-
+<p></p>
 ## 💻 Croisé sur ma route 
 <div align="center">
 
